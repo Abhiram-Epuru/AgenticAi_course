@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments (any folder starting with env or containing "env")
+.env
+venv/
+.venv/
+env*/
+*/env/
+*/venv/
+*/.venv/
+
+# VSCode/IDE
+.vscode/
+.idea/
